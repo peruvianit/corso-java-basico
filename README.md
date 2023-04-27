@@ -17,11 +17,11 @@ Questo corso costituisce una guida introduttiva a chi si approccia per la prima 
 * [Stringhe](https://github.com/peruvianit/corso-java-basico/wiki/String)
 * [Array](https://github.com/peruvianit/corso-java-basico/wiki/Array)
 * [Conversione di un tipo (Casting)](https://github.com/peruvianit/corso-java-basico/wiki/Conversione-di-un-tipo-(Casting))
+* [Librerie java](https://github.com/peruvianit/corso-java-basico/wiki/Librerie-java)
 * [Lettura dati dalla tastiera (input e output)](https://github.com/peruvianit/corso-java-basico/wiki/Lettura-dati-dalla-tastiera-(input-e-output))
 * [Istruzioni condizionali (If e switch)](https://github.com/peruvianit/corso-java-basico/wiki/Istruzioni-condizionali-(If-e-Switch))
 * [Istruzioni Loop (while, do while e for)](https://github.com/peruvianit/corso-java-basico/wiki/Istruzioni-Loop-(while,-do-while-e-for))
 * [Funzioni](https://github.com/peruvianit/corso-java-basico/wiki/Funzioni)
-* [Librerie java](https://github.com/peruvianit/corso-java-basico/wiki/Librerie-java)
 
 `Seconda Parte - Programmazione orientata a oggetti`
 - [Classe ed Oggetti](https://github.com/peruvianit/corso-java-basico/wiki/Classe-ed-Oggetti)
