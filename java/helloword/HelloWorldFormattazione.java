@@ -1,5 +1,10 @@
 import java.util.Locale;
 
+/*
+ * La classe java.util.Locale può essere utilizzata per formattare le informazioni per l’utente 
+ * in base alle consuetudini della regione. Ad esempio, la visualizzazione di un numero è un’operazione 
+ * sensibile alla localizzazione - il numero deve essere formattato in base alle consuetudini della regione.
+ */
 public class HelloWorldFormattazione {
     public static void main(String[] args) {
 
