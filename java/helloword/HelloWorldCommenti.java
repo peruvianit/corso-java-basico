@@ -1,14 +1,15 @@
 /*
- * ¡Hola! El código que me compartiste es un ejemplo de un programa Java que imprime “Hello, World!” 
- * en la consola. Este programa es muy común y se utiliza para introducir a los principiantes al lenguaje 
- * de programación Java.
- * El programa consta de una clase llamada “HelloWorld” que tiene un método llamado “main”. 
- * El método “main” es el punto de entrada del programa y se ejecuta cuando se inicia el programa. 
- * El método “main” utiliza el objeto “System.out” para imprimir el mensaje “Hello, World!” en la consola.
- */
+* Il codice che mi hai mostrato è un esempio di un programma Java che stampa “Hello, World!” sulla console. 
+* Questo programma è molto comune e viene utilizzato per introdurre i principianti al linguaggio di programmazione 
+* Java.
+* 
+* Il programma consiste in una classe chiamata “HelloWorld” che ha un metodo chiamato “main”. 
+* Il metodo “main” è il punto di ingresso del programma e viene eseguito quando il programma viene avviato. 
+* Il metodo “main” utilizza l’oggetto “System.out” per stampare il messaggio “Hello, World!” sulla console.
+*/
 public class HelloWorldCommenti {
     public static void main(String[] args) {
-        // imprimir el mensaje “Hello, World!” en la consola
+        // stampare il messaggio “Hello, World!” sulla console.
         System.out.println("Hello, World!");
     }
 }
