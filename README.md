@@ -38,6 +38,7 @@ Questo corso costituisce una guida introduttiva a chi si approccia per la prima 
 - [Interfaccia](https://github.com/peruvianit/corso-java-basico/wiki/Interfaccia)
 
 `Terza Parte - Collezioni`
+- [Collezioni](https://github.com/peruvianit/corso-java-basico/wiki/Collezioni)
 - [ArrayList](https://github.com/peruvianit/corso-java-basico/wiki/ArrayList)
 - [Map](https://github.com/peruvianit/corso-java-basico/wiki/Map)
 
