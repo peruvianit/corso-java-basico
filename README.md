@@ -36,8 +36,11 @@ Questo corso costituisce una guida introduttiva a chi si approccia per la prima 
 - [Polimirfismo](https://github.com/peruvianit/corso-java-basico/wiki/polimorfismo)
 - [Sovraccarica di metodi](https://github.com/peruvianit/corso-java-basico/wiki/Sovraccarica-di-metodi)
 - [Interfaccia](https://github.com/peruvianit/corso-java-basico/wiki/Interfaccia)
+- [Classi Generiche](https://github.com/peruvianit/corso-java-basico/wiki/Classi-Generiche)
 
 `Terza Parte - Collezioni`
+- [Collezioni](https://github.com/peruvianit/corso-java-basico/wiki/Collezioni)
+- [List](https://github.com/peruvianit/corso-java-basico/wiki/List)
 - [ArrayList](https://github.com/peruvianit/corso-java-basico/wiki/ArrayList)
 - [Map](https://github.com/peruvianit/corso-java-basico/wiki/Map)
 
